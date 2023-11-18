@@ -1,0 +1,23 @@
+{
+    "background": "#181818",
+    "black": "#52494E",
+    "blue": "#96A6C8",
+    "brightBlack": "#484848",
+    "brightBlue": "#96A6C8",
+    "brightCyan": "#95A99F",
+    "brightGreen": "#73C936",
+    "brightPurple": "#9E95C7",
+    "brightRed": "#C73C3F",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#FFDD33",
+    "cursorColor": "#FFDD33",
+    "cyan": "#95A99F",
+    "foreground": "#E4E4EF",
+    "green": "#73C936",
+    "name": "Gruber darker",
+    "purple": "#9E95C7",
+    "red": "#C73C3F",
+    "selectionBackground": "#484848",
+    "white": "#E4E4EF",
+    "yellow": "#FFDD33"
+}
